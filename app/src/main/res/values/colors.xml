@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <item name="red_a1" type="color">#FF8A80</item>
+    <item name="red_a2" type="color">#D50000</item>
+    <item name="red_a3" type="color">#F44336</item>
+    <item name="red_a4" type="color">#FF5252</item>
+    <item name="red_a5" type="color">#FF8A80</item>
+
+    <item name="red_1" type="color">#B71C1C</item>
+    <item name="red_2" type="color">#C62828</item>
+    <item name="red_3" type="color">#D32F2F</item>
+    <item name="red_4" type="color">#E53935</item>
+    <item name="red_5" type="color">#F44336</item>
+    <item name="red_6" type="color">#EF5350</item>
+    <item name="red_7" type="color">#E57373</item>
+    <item name="red_8" type="color">#EF9A9A</item>
+    <item name="red_9" type="color">#FFCDD2</item>
+    <item name="red_10" type="color">#FFEBEE</item>
+
+    <item name="pink_a1" type="color">#C51162</item>
+    <item name="pink_a2" type="color">#F50057</item>
+    <item name="pink_a3" type="color">#E91E63</item>
+    <item name="pink_a4" type="color">#FF4081</item>
+    <item name="pink_a5" type="color">#FF80AB</item>
+
+    <item name="pink_1" type="color">#880E4F</item>
+    <item name="pink_2" type="color">#AD1457</item>
+    <item name="pink_3" type="color">#C2185B</item>
+    <item name="pink_4" type="color">#D81B60</item>
+    <item name="pink_5" type="color">#E91E63</item>
+    <item name="pink_6" type="color">#EC407A</item>
+    <item name="pink_7" type="color">#F06292</item>
+    <item name="pink_8" type="color">#F48FB1</item>
+    <item name="pink_9" type="color">#F8BBD0</item>
+    <item name="pink_10" type="color">#FCE4EC</item>
+
+    <item name="purple_a1" type="color">#AA00FF</item>
+    <item name="purple_a2" type="color">#D500F9</item>
+    <item name="purple_a3" type="color">#9C27B0</item>
+    <item name="purple_a4" type="color">#E040FB</item>
+    <item name="purple_a5" type="color">#EA80FC</item>
+
+    <item name="purple_1" type="color">#4A148C</item>
+    <item name="purple_2" type="color">#6A1B9A</item>
+    <item name="purple_3" type="color">#7B1FA2</item>
+    <item name="purple_4" type="color">#8E24AA</item>
+    <item name="purple_5" type="color">#9C27B0</item>
+    <item name="purple_6" type="color">#AB47BC</item>
+    <item name="purple_7" type="color">#BA68C8</item>
+    <item name="purple_8" type="color">#CE93D8</item>
+    <item name="purple_9" type="color">#E1BEE7</item>
+    <item name="purple_10" type="color">#F3E5F5</item>
+
+    <item name="deep_purple_a1" type="color">#673AB7</item>
+    <item name="deep_purple_a2" type="color">#6200EA</item>
+    <item name="deep_purple_a3" type="color">#651FFF</item>
+    <item name="deep_purple_a4" type="color">#7C4DFF</item>
+    <item name="deep_purple_a5" type="color">#B388FF</item>
+
+    <item name="deep_purple_1" type="color">#311B92</item>
+    <item name="deep_purple_2" type="color">#4527A0</item>
+    <item name="deep_purple_3" type="color">#512DA8</item>
+    <item name="deep_purple_4" type="color">#5E35B1</item>
+    <item name="deep_purple_5" type="color">#673AB7</item>
+    <item name="deep_purple_6" type="color">#7E57C2</item>
+    <item name="deep_purple_7" type="color">#9575CD</item>
+    <item name="deep_purple_8" type="color">#B39DDB</item>
+    <item name="deep_purple_9" type="color">#D1C4E9</item>
+    <item name="deep_purple_10" type="color">#EDE7F6</item>
+
+    <item name="indigo_a1" type="color">#304FFE</item>
+    <item name="indigo_a2" type="color">#3D5AFE</item>
+    <item name="indigo_a3" type="color">#3F51B5</item>
+    <item name="indigo_a4" type="color">#536DFE</item>
+    <item name="indigo_a5" type="color">#8C9EFF</item>
+
+    <item name="indigo_1" type="color">#1A237E</item>
+    <item name="indigo_2" type="color">#283593</item>
+    <item name="indigo_3" type="color">#303F9F</item>
+    <item name="indigo_4" type="color">#3949AB</item>
+    <item name="indigo_5" type="color">#3F51B5</item>
+    <item name="indigo_6" type="color">#5C6BC0</item>
+    <item name="indigo_7" type="color">#7986CB</item>
+    <item name="indigo_8" type="color">#9FA8DA</item>
+    <item name="indigo_9" type="color">#C5CAE9</item>
+    <item name="indigo_10" type="color">#E8EAF6</item>
+
+    <item name="blue_a1" type="color">#2962FF</item>
+    <item name="blue_a2" type="color">#2979FF</item>
+    <item name="blue_a3" type="color">#2196F3</item>
+    <item name="blue_a4" type="color">#448AFF</item>
+    <item name="blue_a5" type="color">#82B1FF</item>
+
+    <item name="blue_1" type="color">#0D47A1</item>
+    <item name="blue_2" type="color">#1565C0</item>
+    <item name="blue_3" type="color">#1976D2</item>
+    <item name="blue_4" type="color">#1E88E5</item>
+    <item name="blue_5" type="color">#2196F3</item>
+    <item name="blue_6" type="color">#42A5F5</item>
+    <item name="blue_7" type="color">#64B5F6</item>
+    <item name="blue_8" type="color">#90CAF9</item>
+    <item name="blue_9" type="color">#BBDEFB</item>
+    <item name="blue_10" type="color">#E3F2FD</item>
+
+    <item name="light_blue_a1" type="color">#0091EA</item>
+    <item name="light_blue_a2" type="color">#00B0FF</item>
+    <item name="light_blue_a3" type="color">#03A9F4</item>
+    <item name="light_blue_a4" type="color">#40C4FF</item>
+    <item name="light_blue_a5" type="color">#80D8FF</item>
+
+    <item name="light_blue_1" type="color">#01579B</item>
+    <item name="light_blue_2" type="color">#0277BD</item>
+    <item name="light_blue_3" type="color">#0288D1</item>
+    <item name="light_blue_4" type="color">#039BE5</item>
+    <item name="light_blue_5" type="color">#03A9F4</item>
+    <item name="light_blue_6" type="color">#29B6F6</item>
+    <item name="light_blue_7" type="color">#4FC3F7</item>
+    <item name="light_blue_8" type="color">#81D4FA</item>
+    <item name="light_blue_9" type="color">#B3E5FC</item>
+    <item name="light_blue_10" type="color">#E1F5FE</item>
+
+    <item name="cyan_a1" type="color">#00B8D4</item>
+    <item name="cyan_a2" type="color">#00E5FF</item>
+    <item name="cyan_a3" type="color">#00BCD4</item>
+    <item name="cyan_a4" type="color">#18FFFF</item>
+    <item name="cyan_a5" type="color">#84FFFF</item>
+
+    <item name="cyan_1" type="color">#006064</item>
+    <item name="cyan_2" type="color">#00838F</item>
+    <item name="cyan_3" type="color">#0097A7</item>
+    <item name="cyan_4" type="color">#00ACC1</item>
+    <item name="cyan_5" type="color">#00BCD4</item>
+    <item name="cyan_6" type="color">#26C6DA</item>
+    <item name="cyan_7" type="color">#4DD0E1</item>
+    <item name="cyan_8" type="color">#80DEEA</item>
+    <item name="cyan_9" type="color">#B2EBF2</item>
+    <item name="cyan_10" type="color">#E0F7FA</item>
+
+    <item name="teal_a1" type="color">#00BFA5</item>
+    <item name="teal_a2" type="color">#1DE9B6</item>
+    <item name="teal_a3" type="color">#009688</item>
+    <item name="teal_a4" type="color">#64FFDA</item>
+    <item name="teal_a5" type="color">#A7FFEB</item>
+
+    <item name="teal_1" type="color">#004D40</item>
+    <item name="teal_2" type="color">#00695C</item>
+    <item name="teal_3" type="color">#00796B</item>
+    <item name="teal_4" type="color">#00897B</item>
+    <item name="teal_5" type="color">#009688</item>
+    <item name="teal_6" type="color">#26A69A</item>
+    <item name="teal_7" type="color">#4DB6AC</item>
+    <item name="teal_8" type="color">#80CBC4</item>
+    <item name="teal_9" type="color">#B2DFDB</item>
+    <item name="teal_10" type="color">#E0F2F1</item>
+
+    <item name="green_a1" type="color">#00C853</item>
+    <item name="green_a2" type="color">#00E676</item>
+    <item name="green_a3" type="color">#4CAF50</item>
+    <item name="green_a4" type="color">#69F0AE</item>
+    <item name="green_a5" type="color">#B9F6CA</item>
+
+    <item name="green_1" type="color">#1B5E20</item>
+    <item name="green_2" type="color">#2E7D32</item>
+    <item name="green_3" type="color">#388E3C</item>
+    <item name="green_4" type="color">#43A047</item>
+    <item name="green_5" type="color">#4CAF50</item>
+    <item name="green_6" type="color">#66BB6A</item>
+    <item name="green_7" type="color">#81C784</item>
+    <item name="green_8" type="color">#A5D6A7</item>
+    <item name="green_9" type="color">#C8E6C9</item>
+    <item name="green_10" type="color">#E8F5E9</item>
+
+    <item name="light_green_a1" type="color">#64DD17</item>
+    <item name="light_green_a2" type="color">#76FF03</item>
+    <item name="light_green_a3" type="color">#8BC34A</item>
+    <item name="light_green_a4" type="color">#B2FF59</item>
+    <item name="light_green_a5" type="color">#CCFF90</item>
+
+    <item name="light_green_1" type="color">#33691E</item>
+    <item name="light_green_2" type="color">#558B2F</item>
+    <item name="light_green_3" type="color">#689F38</item>
+    <item name="light_green_4" type="color">#7CB342</item>
+    <item name="light_green_5" type="color">#8BC34A</item>
+    <item name="light_green_6" type="color">#9CCC65</item>
+    <item name="light_green_7" type="color">#AED581</item>
+    <item name="light_green_8" type="color">#C5E1A5</item>
+    <item name="light_green_9" type="color">#DCEDC8</item>
+    <item name="light_green_10" type="color">#F1F8E9</item>
+
+    <item name="lime_a1" type="color">#AEEA00</item>
+    <item name="lime_a2" type="color">#C6FF00</item>
+    <item name="lime_a3" type="color">#CDDC39</item>
+    <item name="lime_a4" type="color">#EEFF41</item>
+    <item name="lime_a5" type="color">#F4FF81</item>
+
+    <item name="lime_1" type="color">#827717</item>
+    <item name="lime_2" type="color">#9E9D24</item>
+    <item name="lime_3" type="color">#AFB42B</item>
+    <item name="lime_4" type="color">#C0CA33</item>
+    <item name="lime_5" type="color">#CDDC39</item>
+    <item name="lime_6" type="color">#D4E157</item>
+    <item name="lime_7" type="color">#DCE775</item>
+    <item name="lime_8" type="color">#E6EE9C</item>
+    <item name="lime_9" type="color">#F0F4C3</item>
+    <item name="lime_10" type="color">#F9FBE7</item>
+
+    <item name="yellow_a1" type="color">#FFD600</item>
+    <item name="yellow_a2" type="color">#FFEA00</item>
+    <item name="yellow_a3" type="color">#FFEB3B</item>
+    <item name="yellow_a4" type="color">#FFFF00</item>
+    <item name="yellow_a5" type="color">#FFFF8D</item>
+
+    <item name="yellow_1" type="color">#F57F17</item>
+    <item name="yellow_2" type="color">#F9A825</item>
+    <item name="yellow_3" type="color">#FBC02D</item>
+    <item name="yellow_4" type="color">#FDD835</item>
+    <item name="yellow_5" type="color">#FFEB3B</item>
+    <item name="yellow_6" type="color">#FFEE58</item>
+    <item name="yellow_7" type="color">#FFF176</item>
+    <item name="yellow_8" type="color">#FFF59D</item>
+    <item name="yellow_9" type="color">#FFF9C4</item>
+    <item name="yellow_10" type="color">#FFFDE7</item>
+
+    <item name="amber_a1" type="color">#FFAB00</item>
+    <item name="amber_a2" type="color">#FFC400</item>
+    <item name="amber_a3" type="color">#FFC107</item>
+    <item name="amber_a4" type="color">#FFD740</item>
+    <item name="amber_a5" type="color">#FFE57F</item>
+
+    <item name="amber_1" type="color">#FF6F00</item>
+    <item name="amber_2" type="color">#FF8F00</item>
+    <item name="amber_3" type="color">#FFA000</item>
+    <item name="amber_4" type="color">#FFB300</item>
+    <item name="amber_5" type="color">#FFC107</item>
+    <item name="amber_6" type="color">#FFCA28</item>
+    <item name="amber_7" type="color">#FFCA28</item>
+    <item name="amber_8" type="color">#FFCA28</item>
+    <item name="amber_9" type="color">#FFECB3</item>
+    <item name="amber_10" type="color">#FFF8E1</item>
+
+    <item name="orange_a1" type="color">#FF6D00</item>
+    <item name="orange_a2" type="color">#FF9100</item>
+    <item name="orange_a3" type="color">#FF9800</item>
+    <item name="orange_a4" type="color">#FFAB40</item>
+    <item name="orange_a5" type="color">#FFD180</item>
+
+    <item name="orange_1" type="color">#E65100</item>
+    <item name="orange_2" type="color">#EF6C00</item>
+    <item name="orange_3" type="color">#F57C00</item>
+    <item name="orange_4" type="color">#FB8C00</item>
+    <item name="orange_5" type="color">#FF9800</item>
+    <item name="orange_6" type="color">#FFA726</item>
+    <item name="orange_7" type="color">#FFB74D</item>
+    <item name="orange_8" type="color">#FFCC80</item>
+    <item name="orange_9" type="color">#FFE0B2</item>
+    <item name="orange_10" type="color">#FFF3E0</item>
+
+    <item name="deep_orange_a1" type="color">#DD2C00</item>
+    <item name="deep_orange_a2" type="color">#FF3D00</item>
+    <item name="deep_orange_a3" type="color">#FF5722</item>
+    <item name="deep_orange_a4" type="color">#FF6E40</item>
+    <item name="deep_orange_a5" type="color">#FF9E80</item>
+
+    <item name="deep_orange_1" type="color">#BF360C</item>
+    <item name="deep_orange_2" type="color">#D84315</item>
+    <item name="deep_orange_3" type="color">#E64A19</item>
+    <item name="deep_orange_4" type="color">#F4511E</item>
+    <item name="deep_orange_5" type="color">#FF5722</item>
+    <item name="deep_orange_6" type="color">#FF7043</item>
+    <item name="deep_orange_7" type="color">#FF8A65</item>
+    <item name="deep_orange_8" type="color">#FFAB91</item>
+    <item name="deep_orange_9" type="color">#FFCCBC</item>
+    <item name="deep_orange_10" type="color">#FBE9E7</item>
+
+    <item name="brown" type="color">#795548</item>
+
+    <item name="brown_1" type="color">#3E2723</item>
+    <item name="brown_2" type="color">#4E342E</item>
+    <item name="brown_3" type="color">#5D4037</item>
+    <item name="brown_4" type="color">#6D4C41</item>
+    <item name="brown_5" type="color">#795548</item>
+    <item name="brown_6" type="color">#8D6E63</item>
+    <item name="brown_7" type="color">#A1887F</item>
+    <item name="brown_8" type="color">#BCAAA4</item>
+    <item name="brown_9" type="color">#D7CCC8</item>
+    <item name="brown_10" type="color">#EFEBE9</item>
+
+    <item name="grey" type="color">#9E9E9E</item>
+
+    <item name="grey_1" type="color">#212121</item>
+    <item name="grey_2" type="color">#424242</item>
+    <item name="grey_3" type="color">#616161</item>
+    <item name="grey_4" type="color">#757575</item>
+    <item name="grey_5" type="color">#9E9E9E</item>
+    <item name="grey_6" type="color">#BDBDBD</item>
+    <item name="grey_7" type="color">#E0E0E0</item>
+    <item name="grey_8" type="color">#EEEEEE</item>
+    <item name="grey_9" type="color">#F5F5F5</item>
+    <item name="grey_10" type="color">#FAFAFA</item>
+
+    <item name="blue_gray" type="color">#607D8B</item>
+
+    <item name="blue_gray_1" type="color">#263238</item>
+    <item name="blue_gray_2" type="color">#37474F</item>
+    <item name="blue_gray_3" type="color">#455A64</item>
+    <item name="blue_gray_4" type="color">#546E7A</item>
+    <item name="blue_gray_5" type="color">#607D8B</item>
+    <item name="blue_gray_6" type="color">#78909C</item>
+    <item name="blue_gray_7" type="color">#90A4AE</item>
+    <item name="blue_gray_8" type="color">#B0BEC5</item>
+    <item name="blue_gray_9" type="color">#CFD8DC</item>
+    <item name="blue_gray_10" type="color">#ECEFF1</item>
+
+    <item name="black" type="color">#000000</item>
+
+    <item name="white" type="color">#FFFFFF</item>
+</resources>
